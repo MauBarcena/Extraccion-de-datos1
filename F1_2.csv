@@ -1,0 +1,52 @@
+,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+1,AFG,Afghanistan,Asia,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,,Afganistan/Afqanestan,Islamic Emirate,Mohammad Omar,1.0,AF
+7,ARE,united Arab Emirates,Asia,Middle East,83600.0,1971.0,2441000,74.1,37966.0,36846.0,Al-Imarat al- Arabiya al-Muttahida,Emirate Federation,Zayid bin Sultan al-Nahayan,65.0,AE
+9,ARM,Armenia,Asia,Middle East,29800.0,1991.0,3520000,66.4,1813.0,1627.0,Hajastan,Republic,Robert KotSarjan,126.0,AM
+16,AZE,Azerbaijan,Asia,Middle East,86600.0,1991.0,7734000,62.9,4127.0,4100.0,Azarbaycan,Federal Republic,Heydar aliyev,144.0,AZ
+21,BGD,Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,31966.0,Bangladesh,Republic,Shahabuddin Ahmad,150.0,BD
+23,BHR,Bahrain,Asia,Middle East,694.0,1971.0,617000,73.0,6366.0,6097.0,Al-Bahrayn,Monarchy (Emirate),Hamad ibn Isa al-Khalifa,149.0,BH
+32,BRN,Brunei,Asia,Southeast Asia,5765.0,1984.0,328000,73.6,11705.0,12460.0,Brunei Darussalam,Monarchy (Sultanate),Haji Hassan al-Bolkiah,538.0,BN
+33,BTN,Bhutan,Asia,Southern and Central Asia,47000.0,1910.0,2124000,52.4,372.0,383.0,Druk-Yul,Monarchy,Jigme Singye Wangchuk,192.0,BT
+41,CHN,China,Asia,Eastern Asia,9572900.0,-1523.0,1277558000,71.4,982268.0,917719.0,Zhongquo,People'sRepublic,Jiang Zemin,1891.0,CN
+54,CYP,Cyprus,Asia,Middle East,9251.0,1960.0,754700,76.7,9333.0,8246.0,Kypros/Kibris,Republic,Glafkos Klerides,2430.0,CY
+77,GEO,Georgia,Asia,Middle East,69700.0,1991.0,4968000,64.5,6064.0,5924.0,Sakartvelo,Republic,Eduard Sevardnadze,905.0,GE
+92,HKG,Hong Kong,Asia,Eastern Asia,1075.0,,6782000,79.5,166448.0,173610.0,Xianggang/Hong Kong,Special Administrative Region of China,Jiang Zemin,937.0,HK
+98,IDN,Indonesia,Asia,Southeast Asia,1904569.0,1945.0,212107000,68.0,84982.0,215002.0,Indonesia,Republic,Abdurrahman Wahid,939.0,ID
+99,IND,India,Asia,Southern and Central Asia,3287263.0,1947.0,1013662000,62.5,447114.0,430572.0,Bharat/India,Federal Republic,Kocheril Raman Narayanan,1109.0,IN
+102,IRN,Iran,Asia,Southern and Central Asia,1648195.0,1906.0,67702000,69.7,195746.0,160151.0,Iran,Islamic Republic,Ali Mohammad Khatami-Ardakani,1380.0,IR
+103,IRQ,Iraq,Asia,Middle East,438317.0,1932.0,23115000,66.5,11500.0,,Al- Iraq,Republic,Saddam Hussein al-Takriti,1365.0,IQ
+105,ISR,Israel,Asia,Middle East,21056.0,1948.0,6217000,78.6,97477.0,98577.0,Yisrael/Israil,Republic,Moshe Katzav,1450.0,IL
+108,JOR,Jordan,Asia,Middle East,88946.0,1946.0,5083000,77.4,7526.0,7051.0,Al-urdunn,Constitutional Monarchy,Abdullah II,1786.0,JO
+109,JPN,Japan,Asia,Eastern Asia,377829.0,-660.0,126714000,80.7,3787042.0,4192638.0,Nihon/Nippon,Constitutional Monarchy,Akihito,1532.0,JP
+110,KAZ,Kazakstan,Asia,Southern and Central Asia,2724900.0,1991.0,16223000,63.2,24375.0,23383.0,Qazaqstan,Republic,Nursultan Nazarbajev,1864.0,KZ
+112,KGZ,Kyrgyzstan,Asia,Southern and Central Asia,199900.0,1991.0,4699000,63.4,1626.0,1767.0,Kyrgyzstan,Republic,Askar Akajev,2253.0,KG
+113,KHM,Cambodia,Asia,Southeast Asia,181035.0,1953.0,11168000,56.5,5121.0,5670.0,Kampuchea,Constitutional Monarchy,Norodom Sihanouk,1800.0,KH
+116,KOR,South Korea,Asia,Eastern Asia,99434.0,1948.0,46844000,74.4,320749.0,442544.0,Taehan Minguk (Namhan),Republic,Kim Dae-jung,2331.0,KR
+117,KWT,Kuwait,Asia,Middle East,17818.0,1961.0,1972000,76.1,27037.0,30373.0,Al-Kuwayt,Constitutional Monarchy (Emirate),Jabir al-Ahmad al-Jabir al-Sabah,2429.0,KW
+118,LAO,Laos,Asia,Southeast Asia,236800.0,1953.0,5433000,53.1,1292.0,1746.0,Lao,Republic,Khamtay Siphandone,2432.0,LA
+119,LBN,Lebanon,Asia,Middle East,10400.0,1941.0,3282000,71.3,17121.0,15129.0,Lubnan,Republic,emile Lahoud,2438.0,LB
+124,LKA,Sri Lanka,Asia,Southern and Central Asia,65610.0,1948.0,18827000,71.8,15706.0,15091.0,Sri Lanka/Ilankai,Republic,Chandrika Kumaratunga,3217.0,LK
+129,MAC,Macao,Asia,Eastern Asia,18.0,,473000,81.6,5749.0,5940.0,Macau/Aomen,Special Administrative Region of China,Jiang Zemin,2454.0,MO
+134,MDV,Maldives,Asia,Southern and Central Asia,298.0,1965.0,286000,62.2,199.0,,Dhivehi Raajje/Maldives,Republic,Maumoon Abdul Gayoom,2463.0,MV
+140,MMR,Myanmar,Asia,Southeast Asia,676578.0,1948.0,45611000,54.9,180375.0,171028.0,Myanma Pye,Republic,kenraali Than Shwe,2710.0,MM
+141,MNG,Mongolia,Asia,Eastern Asia,1566500.0,1921.0,2662000,67.3,1043.0,933.0,Mongol uls,Republic,Natsagiin Bagabandi,2696.0,MN
+149,MYS,Malaysia,Asia,Southeast Asia,329758.0,1957.0,22244000,70.8,69213.0,97884.0,Malaysia,"Constitutional Monarchy, Federation",Salahuddin Abdul Aziz Shah Alhaj,2464.0,MY
+160,NPL,Nepal,Asia,Southern and Central Asia,147181.0,1769.0,23930000,57.8,4768.0,4837.0,Nepal,Constitutional Monarchy,Gyanendra Bir Bikram,2729.0,NP
+163,OMN,Oman,Asia,Middle East,309500.0,1951.0,2542000,71.8,16904.0,16153.0, uman,Monarchy (Sultanate),Qabus ibn Sa id,2821.0,OM
+164,PAK,Pakistan,Asia,Southern and Central Asia,796095.0,1947.0,156483000,61.1,61289.0,58549.0,Pakistan,Republic,Mohammad Rafiq Tarar,2831.0,PK
+168,PHL,Philippines,Asia,Southeast Asia,300000.0,1946.0,75967000,67.5,65107.0,82239.0,Pilipinas,Republic,Gloria Macapagal-Arroyo,766.0,PH
+173,PRK,North Korea,Asia,Eastern Asia,120538.0,1948.0,24039000,70.7,5332.0,,Choson Minjujuui In min Konghwaguk (Bukhan),Socialistic Republic,Kim Jong-il,2318.0,KP
+176,PSE,Palestine,Asia,Middle East,6257.0,,3101000,71.4,4173.0,,Filastin,Autonomous Area,Yasser (Yasir) Arafat,4074.0,PS
+178,QAT,Qatar,Asia,Middle East,11000.0,1971.0,599000,72.4,9472.0,8920.0,Qatar,Monarchy,Hamad ibn Khalifa al-Thani,2973.0,QA
+183,SAu,Saudi Arabia,Asia,Middle East,2149690.0,1932.0,21607000,67.8,137635.0,146171.0,Al- Arabiya as-Sa udiya,Monarchy,Fahd ibn Abdul-Aziz al-Sa ud,3173.0,SA
+186,SGP,Singapore,Asia,Southeast Asia,618.0,1965.0,3567000,80.1,86503.0,96318.0,Singapore/Singapura/Xinjiapo/Singapur,Republic,Sellapan Rama Nathan,3208.0,SG
+203,SYR,Syria,Asia,Middle East,185180.0,1941.0,16125000,68.5,65984.0,64926.0,Suriya,Republic,Bashar al-Assad,3250.0,SY
+207,THA,Thailand,Asia,Southeast Asia,513115.0,1350.0,61399000,68.6,116416.0,153907.0,Prathet Thai,Constitutional Monarchy,Bhumibol Adulyadej,3320.0,TH
+208,TJK,Tajikistan,Asia,Southern and Central Asia,143100.0,1991.0,6188000,64.1,1990.0,1056.0,Tocikiston,Republic,Emomali Rahmonov,3261.0,TJ
+210,TKM,Turkmenistan,Asia,Southern and Central Asia,488100.0,1991.0,4459000,60.9,4397.0,2000.0,Turkmenostan,Republic,Saparmurad Nijazov,3419.0,TM
+211,TMP,East Timor,Asia,Southeast Asia,14874.0,,885000,46.0,0.0,,Timor Timur,Administrated by the uN,Jose Alexandre Gusmao,1522.0,TP
+215,TuR,Turkey,Asia,Middle East,774815.0,1923.0,66591000,71.0,210721.0,189122.0,Turkiye,Republic,Ahmet Necdet Sezer,3358.0,TR
+217,TWN,Taiwan,Asia,Eastern Asia,36188.0,1945.0,22256000,76.4,256254.0,263451.0,Tai-wan,Republic,Chen Shui-bian,3263.0,TW
+224,uZB,uzbekistan,Asia,Southern and Central Asia,447400.0,1991.0,24318000,63.7,14194.0,21300.0,uzbekiston,Republic,Islam Karimov,3503.0,uZ
+230,VNM,Vietnam,Asia,Southeast Asia,331689.0,1945.0,79832000,69.3,21929.0,22834.0,Viet Nam,Socialistic Republic,Tran Duc Luong,3770.0,VN
+234,YEM,Yemen,Asia,Middle East,527968.0,1918.0,18112000,59.8,6041.0,5729.0,Al-Yaman,Republic,Ali Abdallah Salih,1780.0,YE

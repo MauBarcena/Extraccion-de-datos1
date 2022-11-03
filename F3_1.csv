@@ -1,0 +1,240 @@
+,continent,region
+0,North America,Caribbean
+1,Asia,Southern and Central Asia
+2,Africa,Central Africa
+3,North America,Caribbean
+4,Europe,Southern Europe
+5,Europe,Southern Europe
+6,North America,Caribbean
+7,Asia,Middle East
+8,South America,South America
+9,Asia,Middle East
+10,Oceania,Polynesia
+11,Antarctica,Antarctica
+12,Antarctica,Antarctica
+13,North America,Caribbean
+14,Oceania,Australia and New Zealand
+15,Europe,Western Europe
+16,Asia,Middle East
+17,Africa,Eastern Africa
+18,Europe,Western Europe
+19,Africa,Western Africa
+20,Africa,Western Africa
+21,Asia,Southern and Central Asia
+22,Europe,Eastern Europe
+23,Asia,Middle East
+24,North America,Caribbean
+25,Europe,Southern Europe
+26,Europe,Eastern Europe
+27,North America,Central America
+28,North America,North America
+29,South America,South America
+30,South America,South America
+31,North America,Caribbean
+32,Asia,Southeast Asia
+33,Asia,Southern and Central Asia
+34,Antarctica,Antarctica
+35,Africa,Southern Africa
+36,Africa,Central Africa
+37,North America,North America
+38,Oceania,Australia and New Zealand
+39,Europe,Western Europe
+40,South America,South America
+41,Asia,Eastern Asia
+42,Africa,Western Africa
+43,Africa,Central Africa
+44,Africa,Central Africa
+45,Africa,Central Africa
+46,Oceania,Polynesia
+47,South America,South America
+48,Africa,Eastern Africa
+49,Africa,Western Africa
+50,North America,Central America
+51,North America,Caribbean
+52,Oceania,Australia and New Zealand
+53,North America,Caribbean
+54,Asia,Middle East
+55,Europe,Eastern Europe
+56,Europe,Western Europe
+57,Africa,Eastern Africa
+58,North America,Caribbean
+59,Europe,Nordic Countries
+60,North America,Caribbean
+61,Africa,Northern Africa
+62,South America,South America
+63,Africa,Northern Africa
+64,Africa,Eastern Africa
+65,Africa,Northern Africa
+66,Europe,Southern Europe
+67,Europe,Baltic Countries
+68,Africa,Eastern Africa
+69,Europe,Nordic Countries
+70,Oceania,Melanesia
+71,South America,South America
+72,Europe,Western Europe
+73,Europe,Nordic Countries
+74,Oceania,Micronesia
+75,Africa,Central Africa
+76,Europe,British Islands
+77,Asia,Middle East
+78,Africa,Western Africa
+79,Europe,Southern Europe
+80,Africa,Western Africa
+81,North America,Caribbean
+82,Africa,Western Africa
+83,Africa,Western Africa
+84,Africa,Central Africa
+85,Europe,Southern Europe
+86,North America,Caribbean
+87,North America,North America
+88,North America,Central America
+89,South America,South America
+90,Oceania,Micronesia
+91,South America,South America
+92,Asia,Eastern Asia
+93,Antarctica,Antarctica
+94,North America,Central America
+95,Europe,Southern Europe
+96,North America,Caribbean
+97,Europe,Eastern Europe
+98,Asia,Southeast Asia
+99,Asia,Southern and Central Asia
+100,Africa,Eastern Africa
+101,Europe,British Islands
+102,Asia,Southern and Central Asia
+103,Asia,Middle East
+104,Europe,Nordic Countries
+105,Asia,Middle East
+106,Europe,Southern Europe
+107,North America,Caribbean
+108,Asia,Middle East
+109,Asia,Eastern Asia
+110,Asia,Southern and Central Asia
+111,Africa,Eastern Africa
+112,Asia,Southern and Central Asia
+113,Asia,Southeast Asia
+114,Oceania,Micronesia
+115,North America,Caribbean
+116,Asia,Eastern Asia
+117,Asia,Middle East
+118,Asia,Southeast Asia
+119,Asia,Middle East
+120,Africa,Western Africa
+121,Africa,Northern Africa
+122,North America,Caribbean
+123,Europe,Western Europe
+124,Asia,Southern and Central Asia
+125,Africa,Southern Africa
+126,Europe,Baltic Countries
+127,Europe,Western Europe
+128,Europe,Baltic Countries
+129,Asia,Eastern Asia
+130,Africa,Northern Africa
+131,Europe,Western Europe
+132,Europe,Eastern Europe
+133,Africa,Eastern Africa
+134,Asia,Southern and Central Asia
+135,North America,Central America
+136,Oceania,Micronesia
+137,Europe,Southern Europe
+138,Africa,Western Africa
+139,Europe,Southern Europe
+140,Asia,Southeast Asia
+141,Asia,Eastern Asia
+142,Oceania,Micronesia
+143,Africa,Eastern Africa
+144,Africa,Western Africa
+145,North America,Caribbean
+146,North America,Caribbean
+147,Africa,Eastern Africa
+148,Africa,Eastern Africa
+149,Asia,Southeast Asia
+150,Africa,Eastern Africa
+151,Africa,Southern Africa
+152,Oceania,Melanesia
+153,Africa,Western Africa
+154,Oceania,Australia and New Zealand
+155,Africa,Western Africa
+156,North America,Central America
+157,Oceania,Polynesia
+158,Europe,Western Europe
+159,Europe,Nordic Countries
+160,Asia,Southern and Central Asia
+161,Oceania,Micronesia
+162,Oceania,Australia and New Zealand
+163,Asia,Middle East
+164,Asia,Southern and Central Asia
+165,North America,Central America
+166,Oceania,Polynesia
+167,South America,South America
+168,Asia,Southeast Asia
+169,Oceania,Micronesia
+170,Oceania,Melanesia
+171,Europe,Eastern Europe
+172,North America,Caribbean
+173,Asia,Eastern Asia
+174,Europe,Southern Europe
+175,South America,South America
+176,Asia,Middle East
+177,Oceania,Polynesia
+178,Asia,Middle East
+179,Africa,Eastern Africa
+180,Europe,Eastern Europe
+181,Europe,Eastern Europe
+182,Africa,Eastern Africa
+183,Asia,Middle East
+184,Africa,Northern Africa
+185,Africa,Western Africa
+186,Asia,Southeast Asia
+187,Antarctica,Antarctica
+188,Africa,Western Africa
+189,Europe,Nordic Countries
+190,Oceania,Melanesia
+191,Africa,Western Africa
+192,North America,Central America
+193,Europe,Southern Europe
+194,Africa,Eastern Africa
+195,North America,North America
+196,Africa,Central Africa
+197,South America,South America
+198,Europe,Eastern Europe
+199,Europe,Southern Europe
+200,Europe,Nordic Countries
+201,Africa,Southern Africa
+202,Africa,Eastern Africa
+203,Asia,Middle East
+204,North America,Caribbean
+205,Africa,Central Africa
+206,Africa,Western Africa
+207,Asia,Southeast Asia
+208,Asia,Southern and Central Asia
+209,Oceania,Polynesia
+210,Asia,Southern and Central Asia
+211,Asia,Southeast Asia
+212,Oceania,Polynesia
+213,North America,Caribbean
+214,Africa,Northern Africa
+215,Asia,Middle East
+216,Oceania,Polynesia
+217,Asia,Eastern Asia
+218,Africa,Eastern Africa
+219,Africa,Eastern Africa
+220,Europe,Eastern Europe
+221,Oceania,Micronesia/Caribbean
+222,South America,South America
+223,North America,North America
+224,Asia,Southern and Central Asia
+225,Europe,Southern Europe
+226,North America,Caribbean
+227,South America,South America
+228,North America,Caribbean
+229,North America,Caribbean
+230,Asia,Southeast Asia
+231,Oceania,Melanesia
+232,Oceania,Polynesia
+233,Oceania,Polynesia
+234,Asia,Middle East
+235,Europe,Southern Europe
+236,Africa,Southern Africa
+237,Africa,Eastern Africa
+238,Africa,Eastern Africa

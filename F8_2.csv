@@ -1,0 +1,5 @@
+population,code,name,continent,region,surface_area,independence_year,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+754700,CYP,Cyprus,Asia,Middle East,9251.0,1960.0,76.7,9333.0,8246.0,Kypros/Kibris,Republic,Glafkos Klerides,2430.0,CY
+6217000,ISR,Israel,Asia,Middle East,21056.0,1948.0,78.6,97477.0,98577.0,Yisrael/Israil,Republic,Moshe Katzav,1450.0,IL
+5083000,JOR,Jordan,Asia,Middle East,88946.0,1946.0,77.4,7526.0,7051.0,Al-urdunn,Constitutional Monarchy,Abdullah II,1786.0,JO
+1972000,KWT,Kuwait,Asia,Middle East,17818.0,1961.0,76.1,27037.0,30373.0,Al-Kuwayt,Constitutional Monarchy (Emirate),Jabir al-Ahmad al-Jabir al-Sabah,2429.0,KW

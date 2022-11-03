@@ -1,0 +1,19 @@
+population,code,name,continent,region,surface_area,independence_year,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+2441000,ARE,united Arab Emirates,Asia,Middle East,83600.0,1971.0,74.1,37966.0,36846.0,Al-Imarat al- Arabiya al-Muttahida,Emirate Federation,Zayid bin Sultan al-Nahayan,65.0,AE
+3520000,ARM,Armenia,Asia,Middle East,29800.0,1991.0,66.4,1813.0,1627.0,Hajastan,Republic,Robert KotSarjan,126.0,AM
+7734000,AZE,Azerbaijan,Asia,Middle East,86600.0,1991.0,62.9,4127.0,4100.0,Azarbaycan,Federal Republic,Heydar aliyev,144.0,AZ
+617000,BHR,Bahrain,Asia,Middle East,694.0,1971.0,73.0,6366.0,6097.0,Al-Bahrayn,Monarchy (Emirate),Hamad ibn Isa al-Khalifa,149.0,BH
+754700,CYP,Cyprus,Asia,Middle East,9251.0,1960.0,76.7,9333.0,8246.0,Kypros/Kibris,Republic,Glafkos Klerides,2430.0,CY
+4968000,GEO,Georgia,Asia,Middle East,69700.0,1991.0,64.5,6064.0,5924.0,Sakartvelo,Republic,Eduard Sevardnadze,905.0,GE
+23115000,IRQ,Iraq,Asia,Middle East,438317.0,1932.0,66.5,11500.0,,Al- Iraq,Republic,Saddam Hussein al-Takriti,1365.0,IQ
+6217000,ISR,Israel,Asia,Middle East,21056.0,1948.0,78.6,97477.0,98577.0,Yisrael/Israil,Republic,Moshe Katzav,1450.0,IL
+5083000,JOR,Jordan,Asia,Middle East,88946.0,1946.0,77.4,7526.0,7051.0,Al-urdunn,Constitutional Monarchy,Abdullah II,1786.0,JO
+1972000,KWT,Kuwait,Asia,Middle East,17818.0,1961.0,76.1,27037.0,30373.0,Al-Kuwayt,Constitutional Monarchy (Emirate),Jabir al-Ahmad al-Jabir al-Sabah,2429.0,KW
+3282000,LBN,Lebanon,Asia,Middle East,10400.0,1941.0,71.3,17121.0,15129.0,Lubnan,Republic,emile Lahoud,2438.0,LB
+2542000,OMN,Oman,Asia,Middle East,309500.0,1951.0,71.8,16904.0,16153.0, uman,Monarchy (Sultanate),Qabus ibn Sa id,2821.0,OM
+3101000,PSE,Palestine,Asia,Middle East,6257.0,,71.4,4173.0,,Filastin,Autonomous Area,Yasser (Yasir) Arafat,4074.0,PS
+599000,QAT,Qatar,Asia,Middle East,11000.0,1971.0,72.4,9472.0,8920.0,Qatar,Monarchy,Hamad ibn Khalifa al-Thani,2973.0,QA
+21607000,SAu,Saudi Arabia,Asia,Middle East,2149690.0,1932.0,67.8,137635.0,146171.0,Al- Arabiya as-Sa udiya,Monarchy,Fahd ibn Abdul-Aziz al-Sa ud,3173.0,SA
+16125000,SYR,Syria,Asia,Middle East,185180.0,1941.0,68.5,65984.0,64926.0,Suriya,Republic,Bashar al-Assad,3250.0,SY
+66591000,TuR,Turkey,Asia,Middle East,774815.0,1923.0,71.0,210721.0,189122.0,Turkiye,Republic,Ahmet Necdet Sezer,3358.0,TR
+18112000,YEM,Yemen,Asia,Middle East,527968.0,1918.0,59.8,6041.0,5729.0,Al-Yaman,Republic,Ali Abdallah Salih,1780.0,YE
